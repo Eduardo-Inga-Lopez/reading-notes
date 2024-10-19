@@ -25,13 +25,13 @@
 <br>
 ## Contáctame:
 <a href="https://github.com/eduardo-inga-lopez">
-    <img src="./img/github.png" alt="GitHub" style="width: 50px;">
+    <img src="./img/github.png" alt="GitHub" style="width: 50px; height: 50px;">
 </a>
 <a href="https://wa.me/998197317">
-    <img src="./img/whatsapp.png" alt="WhatsApp" style="width: 50px;">
+    <img src="./img/whatsapp.png" alt="WhatsApp" style="width: 50px; height: 50px;">
 </a>
 <a href="./email-choice.html">
-    <img src="./img/gmail.png" alt="Gmail" style="width: 50px;">
+    <img src="./img/gmail.png" alt="Gmail" style="width: 50px; height: 50px;">
 </a>
 
 
