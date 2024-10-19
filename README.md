@@ -6,10 +6,7 @@
 <br>
 <br>
 
-
-
-![Foto_EIL_Carnet](https://github.com/user-attachments/assets/70f0d521-999f-41b5-b708-46f4988975a8)
-
+<img src="./img/Foto_EIL_Carnet.jpg" alt="Foto_Perfil" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 
 ## Conocimientos:
@@ -28,13 +25,13 @@
 <br>
 ## Contáctame:
 <a href="https://github.com/eduardo-inga-lopez">
-    <img src="./img/github.png" alt="GitHub" style="width: 100px;">
+    <img src="./img/github.png" alt="GitHub" style="width: 50px;">
 </a>
 <a href="https://wa.me/998197317">
-    <img src="./img/whatsapp.png" alt="WhatsApp" style="width: 100px;">
+    <img src="./img/whatsapp.png" alt="WhatsApp" style="width: 50px;">
 </a>
 <a href="./email-choice.html">
-    <img src="./img/gmail.png" alt="Gmail" style="width: 100px;">
+    <img src="./img/gmail.png" alt="Gmail" style="width: 50px;">
 </a>
 
 
