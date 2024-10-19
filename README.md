@@ -1,7 +1,7 @@
 # Eduardo Inga López
 
 <div style="text-align: justify;">
-"Soy estudiante de Desarrollo Web con experiencia práctica en la implementación y puesta en marcha de ERP, así como en soporte de sistemas. Mi enfoque está en la creación de soluciones innovadoras y eficientes, aplicando mis conocimientos en tecnologías actuales. Estoy altamente motivado para desarrollar aplicaciones web y páginas web utilizando herramientas modernas como HTML, CSS, JavaScript y frameworks actuales. Mi pasión por la tecnología y mi disposición para aprender me impulsan a mantenerme actualizado con las últimas tendencias y mejores prácticas en el desarrollo web. Busco siempre mejorar mis habilidades mediante proyectos reales y el aprendizaje constante, con el objetivo de ofrecer soluciones web que sean tanto funcionales como atractivas."
+"Soy estudiante de Desarrollo Web ***con experiencia práctica en la implementación y puesta en marcha de ERP***, así como en soporte de sistemas. Mi enfoque está en la creación de __soluciones innovadoras y eficientes__, aplicando mis conocimientos en tecnologías actuales. Estoy altamente motivado para desarrollar aplicaciones web y páginas web utilizando herramientas modernas como HTML, CSS, JavaScript y frameworks actuales. Mi pasión por la tecnología y mi disposición para aprender me impulsan a mantenerme actualizado con las últimas tendencias y mejores prácticas en el desarrollo web. ***Busco siempre mejorar mis habilidades mediante proyectos reales y el aprendizaje constante***, con el objetivo de ofrecer soluciones web que sean tanto funcionales como atractivas."
 </div>
 <br>
 <br>
