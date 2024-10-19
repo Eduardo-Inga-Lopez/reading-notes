@@ -10,4 +10,9 @@ construir una presencia web atractiva, eficiente y funcional.
 ## Información de contacto:
 
 - [GitHub](https://eduardo-inga-lopez.github.io/reading-notes-101n6/)
-- 
+
+
+## Mis notas de lectura:
+
+- [Mindset](.mindset.md)
+
