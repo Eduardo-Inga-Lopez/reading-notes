@@ -1,18 +1,5 @@
-# Eduardo Inga López
+# Growth Minset
 
-![Foto_EIL_Carnet](https://github.com/user-attachments/assets/70f0d521-999f-41b5-b708-46f4988975a8)
+El growth mindset o mentalidad de crecimiento es la creencia de que las habilidades e inteligencia pueden desarrollarse a través del esfuerzo, el aprendizaje y la persistencia. Quienes tienen esta mentalidad ven los desafíos como oportunidades, aprenden de los errores, valoran el esfuerzo y buscan mejorar continuamente. En contraste, una mentalidad fija cree que las capacidades son inmutables y evita los retos por temor al fracaso.
 
-Hola, soy Eduardo Inga, un desarrollador web con 1 año de experiencia, residenciado en Lima.<br>
-En los últimos 2 años, me he especializado en la creación de soluciones web, manejando tecnologías<br>
-como HTML, CSS y JavaScript. Apasionado por la tecnología y la innovación, mi misión es ayudarte a<br>
-construir una presencia web atractiva, eficiente y funcional.
-
-## Información de contacto:
-
-- [GitHub](https://eduardo-inga-lopez.github.io/reading-notes-101n6/)
-
-
-## Mis notas de lectura:
-
-- [Mindset](./mindset.md)
-
+Esta mentalidad es clave para el éxito, ya que fomenta la resiliencia y el aprendizaje constante.
