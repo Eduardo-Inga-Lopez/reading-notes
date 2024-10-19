@@ -11,3 +11,6 @@ Esta mentalidad es clave para el éxito, ya que fomenta la resiliencia y el apre
 2. "Cada desafío es una oportunidad para mejorar": Enfrenta los problemas técnicos y proyectos difíciles como oportunidades para aprender algo nuevo. Cada reto superado te acerca a ser mejor.
 
 3. "No temas pedir ayuda ni recibir feedback": Aprovecha las críticas y sugerencias para mejorar. No se espera que sepas todo, pero sí que estés dispuesto a aprender de los demás.
+
+*[Enlace al Readme](./README.md)*
+
