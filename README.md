@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="./img/Foto_EIL_Carnet.jpg" alt="Foto_Perfil" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="./img/Foto_EIL_Carnet.jpg" alt="Foto_Perfil" style="display: block; margin-left: auto; margin-right: auto; width: 30%; border-radius: 15px; border: 2px solid #ccc;">
 
 
 ## Conocimientos:
