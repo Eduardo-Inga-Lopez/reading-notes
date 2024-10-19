@@ -13,7 +13,6 @@
 
 
 ## Conocimientos:
-<br>
 <div style="text-align: justify;">
 "Poseo experiencia en el desarrollo de aplicaciones web utilizando tecnologías clave como HTML5, CSS3 y JavaScript. Además, tengo habilidades en la gestión de versiones con GitHub, así como en la administración de bases de datos relacionales con MySQL y SQL Server."
 </div>
@@ -25,10 +24,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-
-
+<br>
+<br>
 ## Contáctame:
+<a href="https://github.com/eduardo-inga-lopez">
+    <img src="./img/github.png" alt="GitHub" style="width: 100px;">
+</a>
+
 
 > [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eduardo.inga@dagahelpdesk.com)
 > [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/998197317)
