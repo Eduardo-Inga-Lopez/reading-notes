@@ -14,5 +14,5 @@ construir una presencia web atractiva, eficiente y funcional.
 
 ## Mis notas de lectura:
 
-- [Mindset](.mindset.md)
+- [Mindset](./mindset.md)
 
