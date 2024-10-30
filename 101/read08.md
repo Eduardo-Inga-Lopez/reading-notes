@@ -1,4 +1,4 @@
-# Mis notas de Lectura:
+# Mis Notas de Lectura:
 
 ## 1. ¿Qué es un wireframe y cuál es su función principal en el proceso de diseño de un sitio web?
 
