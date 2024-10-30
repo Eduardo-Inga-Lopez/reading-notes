@@ -1,4 +1,6 @@
-# Mis notas de Lectura: Git y GitHub
+# Mis Notas de Lectura: 
+
+# Git y GitHub
 
 ## 1. ¿Qué es el control de versiones?
 
