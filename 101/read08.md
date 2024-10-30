@@ -1,3 +1,5 @@
+# Mis notas de Lectura:
+
 ## 1. ¿Qué es un wireframe y cuál es su función principal en el proceso de diseño de un sitio web?
 
 Un wireframe es una representación visual de la estructura y el diseño de un sitio web. Su función principal es servir como un esquema básico que ilustra la disposición de los elementos en la página, como menús, botones y contenido. Esto ayuda a los diseñadores y desarrolladores a entender la organización del contenido y a planificar la navegación del sitio.
