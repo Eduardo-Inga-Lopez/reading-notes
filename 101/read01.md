@@ -1,3 +1,5 @@
+# Mis Notas de Lectura:
+
 # ¿Cómo Funciona la Web?
 
 La web es una red de información conectada globalmente, en la que los usuarios acceden a páginas y servicios a través de internet. Funciona gracias a una serie de protocolos y tecnologías que permiten la comunicación entre **clientes** (como navegadores web) y **servidores**.
