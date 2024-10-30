@@ -1,3 +1,5 @@
+# Mis notas de Lectura: Git y GitHub
+
 ## 1. ¿Qué es el control de versiones?
 
 El control de versiones es un sistema que permite gestionar y registrar los cambios realizados en un proyecto a lo largo del tiempo. Facilita el seguimiento de las modificaciones, la colaboración entre varios desarrolladores, y la capacidad de volver a versiones anteriores en caso de errores. Los sistemas de control de versiones más comunes son Git, Subversion y Mercurial.
