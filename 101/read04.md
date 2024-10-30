@@ -1,3 +1,5 @@
+# Mis notas de Lectura:
+
 ## 1. ¿Qué es el prompt engineering?
 
 El **prompt engineering** es el proceso de diseñar, refinar y optimizar las entradas o “prompts” que se le proporcionan a un modelo de inteligencia artificial para obtener respuestas específicas y de alta calidad.
