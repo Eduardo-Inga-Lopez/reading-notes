@@ -1,3 +1,8 @@
+# Mis Notas de Lectura:
+
+# Arreglos y Control de Flujo
+
+
 ## 1 **¿Qué es “Control Flow” (Control de Flujo)?**
   - El *Control de Flujo* en programación se refiere al orden en que se ejecutan las instrucciones de un programa. En JavaScript, el control de flujo se maneja a través de declaraciones como condiciones (`if`, `else`, `switch`), bucles (`for`, `while`), y otros bloques de control que determinan cómo y cuándo se ejecutan ciertas partes del código.
 
