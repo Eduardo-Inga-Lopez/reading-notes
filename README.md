@@ -1,7 +1,8 @@
 # ¡Hola! Soy Eduardo Inga 👋
 
 <div style="text-align: justify;">
-"Soy estudiante de Desarrollo Web <strong><em>con experiencia práctica en la implementación y puesta en marcha de ERP</em></strong>, así como en soporte de sistemas. Mi enfoque está en la creación de <strong>soluciones innovadoras y eficientes</strong>, aplicando mis conocimientos en tecnologías actuales. Estoy altamente motivado para desarrollar aplicaciones web y páginas web utilizando herramientas modernas como HTML, CSS, JavaScript y frameworks actuales. Mi pasión por la tecnología y mi disposición para aprender me impulsan a mantenerme actualizado con las últimas tendencias y mejores prácticas en el desarrollo web.  <strong><em>Busco siempre mejorar mis habilidades mediante proyectos reales y el aprendizaje constante</em></strong>, con el objetivo de ofrecer soluciones web que sean tanto funcionales como atractivas."
+<p><strong>Estudiante de Desarrollo Web</strong> con experiencia en <strong>implementación de ERP</strong> y <strong>soporte de sistemas</strong>, orientado a crear <strong>soluciones innovadoras y eficientes</strong>. Hábil en el desarrollo de aplicaciones y sitios web usando tecnologías modernas como <strong>HTML, CSS, JavaScript</strong> y frameworks actuales. Motivado por la <strong>tecnología</strong> y el <strong>aprendizaje continuo</strong>, me esfuerzo por mantenerme actualizado en <strong>tendencias</strong> y <strong>mejores prácticas de desarrollo</strong>. Busco aplicar mis habilidades en proyectos reales para ofrecer <strong>soluciones web funcionales y atractivas</strong>.</p>
+
 </div>
 <br>
 <br>
