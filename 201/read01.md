@@ -85,3 +85,5 @@ Este tema conecta directamente con mis estudios, ya que me proporciona una base 
 ### **Plantillas y snippets**
 - Ofrecen estructuras predefinidas de código para tareas repetitivas.
 
+## Cosas de las que quiero saber más
+
