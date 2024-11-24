@@ -10,7 +10,8 @@ En relación con mis estudios, estos conocimientos complementan y refuerzan las 
 
 ---
 
-### 1. Ventajas del uso de HTML semántico en comparación con el uso de etiquetas genéricas como `<div>`:
+### 1. ¿Cuáles son las ventajas del uso de HTML semántico en comparación con el uso de etiquetas genéricas como `<div>`?
+
 El uso de HTML semántico ofrece varias ventajas en comparación con las etiquetas genéricas como `<div>`:
 
 - **Accesibilidad**: El HTML semántico mejora la accesibilidad web, ya que los navegadores y las tecnologías de asistencia (como lectores de pantalla) pueden interpretar mejor el contenido, lo que facilita la navegación para usuarios con discapacidades.
@@ -23,7 +24,8 @@ El uso de HTML semántico ofrece varias ventajas en comparación con las etiquet
 
 ---
 
-### 2. Etiquetas semánticas esenciales para estructurar correctamente una página web y su función:
+### 2. ¿Qué etiquetas semánticas son esenciales para estructurar correctamente una página web y qué función desempeñan?
+
 Las siguientes etiquetas semánticas son esenciales para estructurar una página web correctamente:
 
 - **`<header>`**: Define la cabecera de un documento o sección, generalmente incluye el logo, el título y la navegación principal.
@@ -42,8 +44,9 @@ Estas etiquetas semánticas mejoran la accesibilidad, el SEO y la organización 
 
 ---
 
-### 3. Función principal de las media queries en CSS y su contribución al diseño responsivo:
-Las **media queries** en CSS permiten aplicar estilos CSS diferentes en función de las características del dispositivo, como el tamaño de la pantalla, la orientación (vertical u horizontal) o la resolución.
+### 3. ¿Cuál es la función principal de las media queries en CSS y cómo contribuyen al diseño responsivo de una página web?
+
+- Las **media queries** en CSS permiten aplicar estilos CSS diferentes en función de las características del dispositivo, como el tamaño de la pantalla, la orientación (vertical u horizontal) o la resolución.
 
 - **Contribución al diseño responsivo**: Las media queries permiten crear diseños que se adaptan a diferentes dispositivos, como teléfonos móviles, tabletas y pantallas de escritorio. Esto asegura que la página web se vea bien en cualquier tamaño de pantalla sin necesidad de reescribir completamente el diseño para cada dispositivo.
 
@@ -59,7 +62,7 @@ Las **media queries** en CSS permiten aplicar estilos CSS diferentes en función
 
 ---
 
-### 4. Diferencias clave entre unidades absolutas y relativas en CSS y situaciones de uso:
+### 4. ¿Cuáles son las diferencias clave entre las unidades absolutas y relativas en CSS, y en qué situaciones es más apropiado utilizar cada tipo?
 
 - **Unidades absolutas**: Son unidades fijas que no cambian con respecto al contexto o tamaño de la pantalla. Las más comunes son:
 
