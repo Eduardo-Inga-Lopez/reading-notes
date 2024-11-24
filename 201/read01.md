@@ -2,6 +2,12 @@
 
 # Introducción a la Web Moderna
 
+## Porque es importante la Web Moderna?
+
+La web moderna es importante porque define cómo interactuamos con internet, cómo desarrollamos aplicaciones y cómo manejamos la información de manera eficiente y segura. La comprensión y dominio de las tecnologías web modernas es crucial no solo para los desarrolladores, sino también para cualquier persona que esté involucrada en el diseño, desarrollo y administración de servicios web. Además, el avance hacia una web moderna y accesible afecta directamente a la experiencia del usuario, la innovación tecnológica y la competitividad en el mercado.
+
+Este tema conecta directamente con mis estudios, ya que me proporciona una base sólida para entender cómo funcionan las aplicaciones web y cómo usar las herramientas adecuadas para desarrollarlas de manera más eficiente.
+
 ## 1. ¿Qué roles desempeñan los clientes y los servidores en el funcionamiento de la web?
 
 ### **Clientes**
