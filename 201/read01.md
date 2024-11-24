@@ -87,3 +87,4 @@ Este tema conecta directamente con mis estudios, ya que me proporciona una base 
 
 ## Cosas de las que quiero saber más
 
+- Aprender sobre bases de datos relacionales
