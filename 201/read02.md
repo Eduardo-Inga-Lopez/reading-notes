@@ -1,4 +1,14 @@
+# Mis Notas de Lectura:
 
+# HTML5 y CSS
+
+## Porque es importante HTML5 y CSS?
+
+Este tema es importante porque cubre los fundamentos esenciales del desarrollo web moderno, como el uso de HTML semántico, CSS para diseño responsivo y accesible, y las mejores prácticas en optimización para motores de búsqueda (SEO). Estos conceptos son cruciales para crear sitios web eficientes, bien estructurados y accesibles para una audiencia diversa, lo cual es clave en el mundo actual, donde la presencia en línea es esencial para cualquier negocio o proyecto.
+
+En relación con mis estudios, estos conocimientos complementan y refuerzan las habilidades que estoy adquiriendo en el desarrollo de sistemas y aplicaciones web. Aprender a estructurar correctamente una página web, aplicar diseño responsivo, y optimizar para accesibilidad y SEO, me permitirá crear soluciones más efectivas y competitivas, mejorando la experiencia del usuario y asegurando que mis proyectos sean más visibles y funcionales en diversas plataformas y dispositivos.
+
+---
 
 ### 1. Ventajas del uso de HTML semántico en comparación con el uso de etiquetas genéricas como `<div>`:
 El uso de HTML semántico ofrece varias ventajas en comparación con las etiquetas genéricas como `<div>`:
@@ -72,5 +82,8 @@ Las **media queries** en CSS permiten aplicar estilos CSS diferentes en función
 
 ---
 
+## Cosas de las que quiero saber más
 
+- Conceptos de **Diseño UX/UI**.
+  
 
