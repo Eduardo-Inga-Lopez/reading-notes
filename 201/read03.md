@@ -41,6 +41,7 @@ El **CSS Layout** es esencial en el diseño web porque define cómo se estructur
 
 El uso adecuado de CSS Layout no solo mejora la estética de un sitio web, sino que también contribuye a una mejor funcionalidad y accesibilidad, elementos clave para el éxito en la web moderna.
 
+---
 
 CSS Layout es una habilidad esencial en mi formación, ya que me ayuda a crear sitios web y aplicaciones que sean tanto funcionales como visualmente atractivas. Dominar esta herramienta me prepara mejor para afrontar los desafíos en el desarrollo de software, diseño de interfaces y otras áreas relacionadas con la tecnología.
 
