@@ -178,7 +178,23 @@ miPerro.comer();  // "Rex está comiendo." (heredado de la clase Animal)
 miPerro.ladrar();  // "Rex está ladrando." (propio de la clase Perro)
 ```
 
+---
 
+### Cosas de las que quiero saber más sobre el tema
+
+1. **Cómo implementar Abstracción de manera efectiva en JavaScript**: Me gustaría aprender más sobre las mejores prácticas para ocultar la complejidad de los objetos y exponer solo lo necesario, y cómo aplicar la abstracción en proyectos reales.
+
+2. **Patrones de diseño relacionados con los pilares de la POO**: Estoy interesado en conocer más sobre patrones de diseño como el patrón de fábrica, singleton, o estrategia, que utilizan principios de la POO, y cómo se pueden aplicar en JavaScript.
+
+3. **Cómo optimizar el uso de la herencia en JavaScript**: Me gustaría entender mejor cuándo utilizar la herencia y cuándo es preferible usar composición, y cómo evitar los problemas comunes como la herencia múltiple.
+
+4. **Uso de Polimorfismo y sus ventajas**: Quiero explorar más sobre cómo se puede aprovechar el polimorfismo en JavaScript para hacer que el código sea más flexible y escalable, especialmente en aplicaciones grandes.
+
+5. **Diferencias entre clases y objetos literales**: Me interesa conocer más sobre cuándo es adecuado usar objetos literales frente a clases y cómo afectan la eficiencia y organización del código en proyectos pequeños y grandes.
+
+6. **Principios SOLID y su aplicación en JavaScript**: Me gustaría profundizar más en los principios de diseño SOLID y cómo se relacionan con la Programación Orientada a Objetos, aplicándolos a JavaScript para escribir código más limpio y fácil de mantener.
+
+---
 
 
 
