@@ -6,6 +6,14 @@
 
 ---
 
+### ¿Por qué este tema es importante y cómo se relaciona con lo que estás estudiando en este módulo?
+
+Este tema es importante porque la **herencia** es uno de los pilares fundamentales de la **Programación Orientada a Objetos (POO)**, y entender cómo implementarla correctamente es esencial para escribir código más modular, reutilizable y mantenible. Al aprender sobre herencia en JavaScript, adquirimos habilidades clave que nos permiten crear clases más complejas y estructuradas, lo que mejora la eficiencia del desarrollo de software.
+
+En este módulo, estamos estudiando cómo crear y manejar clases y objetos en JavaScript. La herencia, junto con otros pilares de la POO como el **encapsulamiento** y el **polimorfismo**, nos ayuda a gestionar mejor los datos y el comportamiento de nuestros objetos. Comprender cómo una clase puede heredar características de otra nos permite diseñar sistemas más robustos y evitar duplicación de código, lo que es especialmente útil al trabajar en proyectos grandes o colaborativos.
+
+---
+
 ## 1. ¿Qué es la abstracción en programación y cómo se implementa utilizando objetos en JavaScript? Proporciona un ejemplo práctico.
 
 La **abstracción** en programación es el proceso de ocultar los detalles complejos de un sistema y mostrar solo las funcionalidades esenciales. En otras palabras, permite que los usuarios interactúen con un sistema sin necesidad de comprender todos los detalles internos. En JavaScript, la abstracción se puede lograr utilizando objetos y métodos que encapsulan detalles internos.
