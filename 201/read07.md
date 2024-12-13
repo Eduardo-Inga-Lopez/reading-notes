@@ -1,3 +1,11 @@
+# Mis Notas de Lectura:
+
+---
+
+# Paradigmas de la programación 2
+
+---
+
 ### 1. ¿Qué es la abstracción en programación y cómo se implementa utilizando objetos en JavaScript? Proporciona un ejemplo práctico.
 
 La **abstracción** en programación es el proceso de ocultar los detalles complejos de un sistema y mostrar solo las funcionalidades esenciales. En otras palabras, permite que los usuarios interactúen con un sistema sin necesidad de comprender todos los detalles internos. En JavaScript, la abstracción se puede lograr utilizando objetos y métodos que encapsulan detalles internos.
