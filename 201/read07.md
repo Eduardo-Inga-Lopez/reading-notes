@@ -36,7 +36,7 @@ miCoche.detener();   // Solo interactuamos con los métodos públicos
 
 ---
 
-### 2. ¿Cuáles son los cuatro pilares de la Programación Orientada a Objetos y cómo se aplican en JavaScript?
+## 2. ¿Cuáles son los cuatro pilares de la Programación Orientada a Objetos y cómo se aplican en JavaScript?
 
 Los cuatro pilares de la **Programación Orientada a Objetos** (POO) son:
 
@@ -86,6 +86,47 @@ gato.hablar();  // "Felix maúlla."
 ```
 
 ---
+
+## 3. ¿Cuál es la diferencia entre un objeto literal y una clase en JavaScript? ¿Cuándo deberías usar cada uno?
+
+### Objeto literal:
+Es una forma de crear objetos sin necesidad de usar clases. Es útil para definir un solo objeto con propiedades y métodos. Ideal para casos simples y cuando no se necesita reutilizar o extender el objeto.
+
+## Ejemplo:
+
+```javascript
+const coche = {
+  marca: "Toyota",
+  modelo: "Corolla",
+  arrancar() {
+    console.log("El coche ha arrancado.");
+  }
+};
+
+coche.arrancar();  // "El coche ha arrancado."
+```
+
+## Clase:
+Es una plantilla para crear múltiples objetos con las mismas propiedades y métodos. Las clases son más útiles cuando necesitas crear varios objetos con la misma estructura y comportamientos, o cuando planeas extender funcionalidad con herencia.
+
+## Ejemplo:
+
+```javascript
+class Coche {
+  constructor(marca, modelo) {
+    this.marca = marca;
+    this.modelo = modelo;
+  }
+
+  arrancar() {
+    console.log(`El coche ${this.marca} ${this.modelo} ha arrancado.`);
+  }
+}
+
+const miCoche = new Coche("Toyota", "Corolla");
+miCoche.arrancar();  // "El coche Toyota Corolla ha arrancado."
+```
+
 
 
 
