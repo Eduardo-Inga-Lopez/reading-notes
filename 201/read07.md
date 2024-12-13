@@ -6,7 +6,7 @@
 
 ---
 
-### 1. ¿Qué es la abstracción en programación y cómo se implementa utilizando objetos en JavaScript? Proporciona un ejemplo práctico.
+## 1. ¿Qué es la abstracción en programación y cómo se implementa utilizando objetos en JavaScript? Proporciona un ejemplo práctico.
 
 La **abstracción** en programación es el proceso de ocultar los detalles complejos de un sistema y mostrar solo las funcionalidades esenciales. En otras palabras, permite que los usuarios interactúen con un sistema sin necesidad de comprender todos los detalles internos. En JavaScript, la abstracción se puede lograr utilizando objetos y métodos que encapsulan detalles internos.
 
@@ -33,4 +33,59 @@ const miCoche = new Coche("Toyota", "Corolla");
 miCoche.arrancar();  // No es necesario saber cómo funciona internamente
 miCoche.detener();   // Solo interactuamos con los métodos públicos
 ```
+
+---
+
+### 2. ¿Cuáles son los cuatro pilares de la Programación Orientada a Objetos y cómo se aplican en JavaScript?
+
+Los cuatro pilares de la **Programación Orientada a Objetos** (POO) son:
+
+- **Abstracción:** Ocultar los detalles internos y mostrar solo lo esencial. En JavaScript, se logra mediante objetos y clases.
+- **Encapsulamiento:** Agrupar datos y comportamientos que operan sobre esos datos dentro de una misma unidad, como una clase, y controlar el acceso a esos datos mediante métodos. Se puede aplicar usando propiedades privadas o protegidas y métodos públicos.
+- **Herencia:** Permite que una clase herede características (propiedades y métodos) de otra clase. En JavaScript, se puede implementar mediante la palabra clave `extends` en clases.
+- **Polimorfismo:** Permite que un objeto de una clase se comporte de diferentes maneras dependiendo del contexto. Se logra mediante la redefinición de métodos en clases derivadas.
+
+## Ejemplo de cada pilar:
+
+```javascript
+class Animal {   // Clase base
+  constructor(nombre) {
+    this.nombre = nombre;
+  }
+
+  hablar() {
+    console.log(`${this.nombre} hace un sonido.`);
+  }
+}
+
+class Perro extends Animal {   // Herencia
+  constructor(nombre) {
+    super(nombre);  // Llamada al constructor de la clase padre
+  }
+
+  hablar() {
+    console.log(`${this.nombre} ladra.`);
+  }
+}
+
+class Gato extends Animal {   // Herencia
+  constructor(nombre) {
+    super(nombre);  // Llamada al constructor de la clase padre
+  }
+
+  hablar() {  // Polimorfismo
+    console.log(`${this.nombre} maúlla.`);
+  }
+}
+
+const perro = new Perro("Max");
+perro.hablar();  // "Max ladra."
+
+const gato = new Gato("Felix");
+gato.hablar();  // "Felix maúlla."
+```
+
+---
+
+
 
