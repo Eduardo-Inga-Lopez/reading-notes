@@ -127,6 +127,43 @@ const miCoche = new Coche("Toyota", "Corolla");
 miCoche.arrancar();  // "El coche Toyota Corolla ha arrancado."
 ```
 
+---
+
+## 4. ¿Cómo implementarías la herencia en JavaScript utilizando clases? Proporciona un ejemplo que demuestre la relación padre-hijo entre dos clases.
+
+En JavaScript, la herencia se implementa utilizando la palabra clave `extends`. Una clase hija puede heredar métodos y propiedades de una clase padre utilizando `super()` para llamar al constructor de la clase padre.
+
+**Ejemplo de herencia:**
+
+```javascript
+class Animal {  // Clase padre
+  constructor(nombre) {
+    this.nombre = nombre;
+  }
+
+  comer() {
+    console.log(`${this.nombre} está comiendo.`);
+  }
+}
+
+class Perro extends Animal {  // Clase hija
+  constructor(nombre, raza) {
+    super(nombre);  // Llamada al constructor de la clase padre
+    this.raza = raza;
+  }
+
+  ladrar() {
+    console.log(`${this.nombre} está ladrando.`);
+  }
+}
+
+const miPerro = new Perro("Rex", "Pastor Alemán");
+miPerro.comer();  // "Rex está comiendo." (heredado de la clase Animal)
+miPerro.ladrar();  // "Rex está ladrando." (propio de la clase Perro)
+```
+
+
+
 
 
 
